@@ -6,4 +6,4 @@
 
 <hr>
 
-Вам необходимо взять за основу файлы с урока (Только верстку без JS), они прикреплены ниже **(files-for-homework)**
+ **Simple Todolist (localstorage)**
